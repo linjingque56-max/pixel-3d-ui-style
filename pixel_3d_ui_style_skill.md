@@ -8,7 +8,7 @@ Build self-contained interactive HTML applications with a tactile 3D beveled pix
 
 ## When to Use
 
-- The user asks to apply the pixel 3D style (像素立体风), MoneyTown style, or retro simulation game aesthetic to a web app, game, or dashboard.
+- The user asks to apply the pixel 3D style, MoneyTown style, or retro simulation game aesthetic to a web app, game, or dashboard.
 - The user wants tactile 3D beveled pixel buttons, pixel-bordered cards, isometric 2.5D block scenes, or smooth bird's-eye-to-storefront camera transitions.
 - The user asks to package or reuse the visual language, layout structure, and dynamic animations from the MoneyTown project.
 
